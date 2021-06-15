@@ -533,4 +533,4 @@ async def on_ready():
     print('Logged in as:\n{0.user.name}\n{0.user.id}'.format(bot))
     await bot.change_presence(activity=Activity(type=ActivityType.watching, name=" you jack off"))
 
-bot.run('ODA1MTc4NTExMTkwMzkyOTAz.YBXG7A.bHybM4yX1r_txa64TvdKNt40znE')
+bot.run('TOKEN')
